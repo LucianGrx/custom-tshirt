@@ -15,3 +15,5 @@ Instant Visualization: The ability to see a real-time representation of the cust
 This project showcases the synergy between React and Three.js, allowing users to experiment and express their creativity in an engaging and interactive manner.
 
 Feel free to adapt and modify this description to better fit the specific features and characteristics of your project.
+
+![T-Shirt Customizer with React and Three.js](https://imgur.com/LOhzw2g)
